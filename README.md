@@ -17,10 +17,9 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@Technical_Isopod_075)
 
 - 💬 Ask me about **HTML5,CSS3,JS,THREE.JS,C,ANDROID, LINUX (KALI LINUX , GARUDA LINUX ,PARATOS ,UBUNTU)**
-
-- 📫 How to reach me **miss.webdesigner0013@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny.**
+  
+- 📬 **Contact Information**  
+     **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

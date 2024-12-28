@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **ReactJS , NODE.JS,EXPRESS.JS**
 
-- 👨‍💻 All of my projects are available at [https://snehaghoshbarsha444.github.io/19thBD_By_SG.github.io/](https://snehaghoshbarsha444.github.io/19thBD_By_SG.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://snehaghosh-technical-isopod-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@Technical_Isopod_075](https://medium.com/@Technical_Isopod_075)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Technical_Isopod_075)
 
 - 💬 Ask me about **HTML5,CSS3,JS,THREE.JS,C,ANDROID, LINUX (KALI LINUX , GARUDA LINUX ,PARATOS ,UBUNTU)**
 

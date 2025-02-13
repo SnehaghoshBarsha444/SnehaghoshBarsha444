@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Ghosh</h1>
 <h3 align="center">A Passionate Frontend Developer From India <br> A Lifetime LEARNER </h3>
 <img align="right" alt="holopin" width="1000" src="https://holopin.me/snehaghoshbarsha444">
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaghoshbarsha444&label=Profile%20views&color=0e75b6&style=flat" alt="snehaghoshbarsha444" /> </p>
 
@@ -58,6 +59,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SnehaghoshBarsha444&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->

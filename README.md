@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sneha Ghosh</h1>
 <h3 align="center">A Passionate Frontend Developer From India <br> A Lifetime LEARNER </h3>
 <img align="right" alt="holopin" width="1000" src="https://holopin.me/snehaghoshbarsha444">
-
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaghoshbarsha444&label=Profile%20views&color=0e75b6&style=flat" alt="snehaghoshbarsha444" /> </p>
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehaghoshbarsha444" alt="snehaghoshbarsha444" /></a> </p>-->
-<br>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SnehaghoshBarsha444&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <br>
 <p align="left"> <a href="https://twitter.com/isopodtechnical" target="blank"><img src="https://img.shields.io/twitter/follow/isopodtechnical?logo=twitter&style=for-the-badge" alt="isopodtechnical" /></a> </p>
 

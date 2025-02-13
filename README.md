@@ -22,6 +22,8 @@
 
 - 💬 Ask me about **HTML5,CSS3,JS,THREE.JS,C,ANDROID, LINUX (KALI LINUX , GARUDA LINUX ,PARATOS ,UBUNTU)**
 
+  <br>
+
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://x.com/IsopodTechnical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isopodtechnical" height="30" width="40" /></a>
@@ -56,5 +58,5 @@
 
 <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SnehaghoshBarsha444&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SnehaghoshBarsha444&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->

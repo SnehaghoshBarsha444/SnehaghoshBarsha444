@@ -4,15 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaghoshbarsha444&label=Profile%20views&color=0e75b6&style=flat" alt="snehaghoshbarsha444" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehaghoshbarsha444" alt="snehaghoshbarsha444" /></a> </p>-->
+<br><br> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SnehaghoshBarsha444&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<br><br>
+
 <p align="left"> <a href="https://twitter.com/isopodtechnical" target="blank"><img src="https://img.shields.io/twitter/follow/isopodtechnical?logo=twitter&style=for-the-badge" alt="isopodtechnical" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Sambhav Summit Hackathon 2024** & **Pixel Tremend Hackathon 2024**
+- 🔭 I’m currently working on **GSoC 2025** & ** NASA_INTERNATIONAL_SPACE_APPS_CHALLENGE 2025**
 
-- 🌱 I’m currently learning **ReactJS , NODE.JS,EXPRESS.JS**
+- 🌱 I’m currently learning **React Native, Flutter, Kotlin (Android)**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://snehaghosh-technical-isopod-portfolio.vercel.app/)
 

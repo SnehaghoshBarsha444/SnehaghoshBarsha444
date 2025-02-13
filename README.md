@@ -22,7 +22,7 @@
   <br>
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://x.com/IsopodTechnical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isopodtechnical" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61557957576010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="technical isopod 075" height="30" width="40" /></a>
